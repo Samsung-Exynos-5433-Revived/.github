@@ -18,7 +18,9 @@ Open any pull request and I will look at it. Any help is welcome as long as it i
 # TODO:
 ### Kernel
 [ ] eBPF support
+
 [ ] KernelSU support
+
 [ ] Implement cgroup v2
 
 ### Other stufff
